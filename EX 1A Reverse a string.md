@@ -1,5 +1,4 @@
 # EX 1A Reverse a String
-## DATE:
 ## AIM:
 Write a Python program to find the factorial of a given number using recursion.
 
