@@ -79,6 +79,8 @@ for i in range(n):
 ```
 
 ## Output:
+![Screenshot 2025-04-26 135833](https://github.com/user-attachments/assets/899b6c11-857c-4926-be8c-f83fbad08f4f)
+
 
 The program successfully sorts the given array using the Merge Sort algorithm.
 
